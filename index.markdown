@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<meta property="og:image" content="chadfirefox.png"/>
+<meta property="og:image" content="https://www.firefox.best/chadfirefox.png"/>
 Firefox is the best browser.  This is for a variety of reasons, including being completely free and open source, not eating gigabytes of ram for just a few tabs, and greater configurability.
 ![chad firefox](chadfirefox.png)
