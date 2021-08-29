@@ -5,4 +5,4 @@
 layout: home
 ---
 Firefox is the best browser.  This is for a variety of reasons, including being completely free and open source, not eating gigabytes of ram for just a few tabs, and greater configurability.
-![chad firefox]()
+![chad firefox](chadfirefox.png)
